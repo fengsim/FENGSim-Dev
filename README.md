@@ -4,14 +4,12 @@
 ### What is the digital twin?
 
 ### What is the FENGSim project?
-
-
+<br />
 <p align="center">
   <img src="images/meas1.gif" width="700" title="arm cluster">
 </p>
 
 ### What is the ARM cluster?
-<br />
 <br />
 <p align="center">
   <img src="images/Mark-1.jpg" width="350" title="arm cluster">
