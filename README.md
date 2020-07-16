@@ -9,5 +9,7 @@
 
 ### What is the ARM cluster?
 
-![logo](images/Mark-1.jpg)
+<p align="center">
+  <img src="images/Mark-1.jpg" width="350" title="arm cluster">
+</p>
 
