@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="images/meas1.gif" width="350" title="arm cluster">
+  <img src="images/meas1.gif" width="700" title="arm cluster">
 </p>
 
 ### What is the ARM cluster?
