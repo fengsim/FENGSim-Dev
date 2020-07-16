@@ -5,3 +5,6 @@
 
 ### What is the FENGSim project?
 
+### What is the ARM cluster?
+![logo](images/Fengsim_logo_hi.png)
+
