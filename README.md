@@ -5,9 +5,13 @@
 
 ### What is the FENGSim project?
 
-![logo](images/meas1.gif)
+
+<p align="center">
+  <img src="images/meas1.gif" width="350" title="arm cluster">
+</p>
 
 ### What is the ARM cluster?
+
 
 <p align="center">
   <img src="images/Mark-1.jpg" width="350" title="arm cluster">
