@@ -16,18 +16,12 @@ For our understanding, there are three important things about the digital twin.
 - The manufactures always like to concentrate on their manufacturing and they don't want to do MRO by themselves. The users or the third party will do MRO, but they will follow the instructions from the manufactures. 
 - After the manufacturing, the real product will be different with the design. 
 
-[home](https://github.com/fengsim/FENGSim-Dev/wiki/Home)
-
-<br />
-
 <p align="center">
   <img src="images/meas1.gif" width="600" title="arm cluster">
 </p>
 
 
 ### Our ARM cluster
-<br />
-
 <p align="center">
   <img src="images/Mark-1.jpg" width="300" title="arm cluster">
 </p>
