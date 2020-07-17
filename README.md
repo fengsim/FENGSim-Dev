@@ -3,7 +3,7 @@
 
 ### About the FENGSim project
 
-The FENGSim project is an open source project for the digital twin including CAD, CAE, CAM and CAI. Normally it is difficult and impossible for single person to develop a digital twin system like Siemens TeamCenter, Dassault 3D Experience, Ansys WorkBench, but we prove that we could do it by using open source software. If you want to have your own digital twin software, you could use FENGSim and find how to do it in the details  with all the codes in our github repo. 
+The FENGSim project is an open source project for the digital twin including CAD, CAE, CAM and CAI. Normally it is difficult and impossible for single person to develop a digital twin system like Siemens TeamCenter, Dassault 3D Experience, Ansys WorkBench, but we prove that we could do it by using open source software and it is easy. If you want to have your own digital twin software, you could use FENGSim and find how to do it in the details  with all the codes in our github repo. 
 
 **About Digital Twin**
 
