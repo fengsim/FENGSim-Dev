@@ -1,4 +1,4 @@
-## Welcome to the FENGSim project !
+## Welcome to the FENGSim project!
 
 <p align="center">
   <img src="images/Fengsim_logo_hi.png" width="500" title="arm cluster">
