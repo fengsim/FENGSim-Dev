@@ -16,10 +16,23 @@ For our understanding, there are three important things about the digital twin.
 - The manufactures always like to concentrate on their manufacturing and they don't want to do MRO by themselves. The users or the third party will do MRO, but they will follow the instructions from the manufactures. 
 - After the manufacturing, the real product will be different with the design. 
 
+### Airfoil
+
+We will use an example about airfoil to introduce how to build a digital twin system by using FENGSim. 
+
+### Computer Aided Design
+
+### Surface Reconstruction
+
+### Computer Aided Engineering
+
+### Computer Aided Manufacturing
+
+### Computer Aided Inspection
+
 <p align="center">
   <img src="images/meas1.gif" width="600" title="arm cluster">
 </p>
-
 
 ### Our ARM cluster
 <p align="center">
@@ -27,3 +40,4 @@ For our understanding, there are three important things about the digital twin.
 </p>
 
 
+### Some Introduction About Linux, Docker, Github
