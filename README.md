@@ -20,13 +20,7 @@ For our understanding, there are three important things about the digital twin.
 
 We will use an example about airfoil to introduce how to build a digital twin system by using FENGSim. 
 
-##### Some Introduction About Linux, Docker, Github
-
-###### Linux
-
-###### Docker
-
-###### [Github](https://github.com/fengsim/FENGSim-Dev/wiki/Github)
+##### [Some Introduction about Linux, Docker, Github](https://github.com/fengsim/FENGSim-Dev/wiki/Home)
 
 ##### Computer Aided Design
 
@@ -38,14 +32,40 @@ We will use an example about airfoil to introduce how to build a digital twin sy
 
 ##### Computer Aided Inspection
 
+#### Applications
+
+##### Manufacturing
+
+##### Additive Manufacturing
+
+##### Assembly Production Line
+
+##### Measurement
+
 <p align="center">
-  <img src="images/meas1.gif" width="600" title="arm cluster">
+  <img src="images/meas.jpg" width="500" title="arm cluster">
 </p>
 
+
+##### Propellant
+
+##### Composite Materials
+
+##### Test and Evaluation
+
+##### Diagnosis, Prognosis, and Health Monitoring
+
+##### Monitoring, Reporting and Verification
+
+##### Biomedical Engineering
+
 #### Our ARM cluster
+
 <p align="center">
-  <img src="images/Mark-1.jpg" width="300" title="arm cluster">
+  <img src="images/Mark-1.jpg" width="500" title="arm cluster">
 </p>
+
+
 
 
 ##### 
