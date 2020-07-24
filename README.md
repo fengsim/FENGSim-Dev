@@ -45,8 +45,6 @@ We will use an example about airfoil to introduce the concept about the digital 
 <p align="center">
   <img src="images/meas.jpg" width="500" title="arm cluster">
 </p>
-
-
 ##### Propellant
 
 ##### Composite Materials
@@ -64,10 +62,3 @@ We will use an example about airfoil to introduce the concept about the digital 
 <p align="center">
   <img src="images/Mark-1.jpg" width="350" title="arm cluster">
 </p>
-
-
-
-
-##### 
-
-##### 
