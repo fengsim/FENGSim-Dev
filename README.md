@@ -34,7 +34,7 @@ We will use an example about airfoil to introduce the concept about the digital 
 
 #### Applications
 
-##### Manufacturing
+##### Machining
 
 ##### Additive Manufacturing
 
