@@ -8,14 +8,12 @@
 
 FENGSim project is an open-source project for Digital Twins. Without a large team and a big money, it is normally difficult and near impossible to develop a digital twin system like Siemens TeamCenter, Dassault 3D Experience and Ansys WorkBench etc. But we’ve proven that open-source software is a good solution to this and it brings its products directly to industrial sector. If you want to develop your own digital twin software, join the FENGSim project!
 
-
-
 **About Digital Twin**
 
 These are the things you should know about why we need Digital Twins:
 
 - Given the cost and time in industrial production, it would be infeasible for manufacturers to complete the comprehensive assessment of their products, especially for complex systems like an aircraft. So the product optimization should be through the whole lifecycle. 
-- The manufacturers mainly concentrate on their designing and manufacturing processes and usually don’t do the MRO (maintenance, repair, and operating supply) by themselves. The users or the third party will do the MRO, but they will follow the instructions from the manufacturers. Since the manufacturers don’t track the use of their products, they will normally just provide conservative instructions. So, the MRO can be a big cost for users and it will generally affect the performance of the products.
+- The manufacturers mainly concentrate on their designing and manufacturing processes and usually don’t do the MRO (maintenance, repair, and operations) by themselves. The users or the third party will do the MRO, but they will follow the instructions from the manufacturers. Since the manufacturers don’t track the use of their products, they will normally just provide conservative instructions. So, the MRO can be a big cost for users and it will generally affect the performance of the products.
 - Manufacturing is a very complicated process. Mismatching between products and their designs, whether in a small or large scale, will severely undermine their future performance. We thus have to optimize the manufacturing processes, in the meantime taking into account the effect of manufacturing techniques on the evaluation of products performance. 
 
 From the above, there are many roles and stages in the product lifecycle, so we need an unified model  to coordinate all the work and this is the reason for Digital Twin. 
