@@ -15,10 +15,9 @@ These are the things you should know about why we need Digital Twins:
 - Given the cost and time in industrial production, it would be infeasible for manufacturers to complete the comprehensive assessment of their products, especially for complex systems like an aircraft. The product optimization should be through the whole life cycle. 
 
 - The manufacturers mainly concentrate on their designing and manufacturing processes and usually don’t do the MRO (maintenance, repair, and operating supply) by themselves. The users or the third party will do the MRO, but they will follow the instructions from the manufacturers. Since the manufacturers don’t track the use of their products, they will normally just provide conservative instructions. So, the MRO can be a big cost for users and it will generally affect the performance of the products.
-
 - Manufacturing is a very complicated process. Mismatching between products and their designs, whether in a small or large scale, will severely undermine their future performance. We thus have to optimize the manufacturing processes, in the meantime taking into account the effect of manufacturing techniques on the evaluation of products performance. 
 
-  #### Airfoil
+#### Airfoil
 
 Here we show you how to develop your own digital twin project by introducing the Airfoil, a digital twin example developed at FENGSim.
 
