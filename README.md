@@ -18,21 +18,9 @@ These are the things you should know about why we need Digital Twins:
 
 From the above, there are many roles and stages in the product lifecycle, so we need an unified model  to coordinate all the work and this is the reason for Digital Twin. 
 
-#### Airfoil
+#### [Airfoil](https://github.com/fengsim/FENGSim-Dev/wiki/Home)
 
 Here we show you how to develop your own digital twin project by introducing the Airfoil, a digital twin example developed at FENGSim.
-
-##### [Some Introduction about Linux, Docker, Github](https://github.com/fengsim/FENGSim-Dev/wiki/Home)
-
-##### Computer Aided Design
-
-##### Surface Reconstruction
-
-##### Computer Aided Engineering
-
-##### Computer Aided Manufacturing
-
-##### Computer Aided Inspection
 
 #### Applications
 
