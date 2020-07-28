@@ -20,7 +20,7 @@ From the above, there are many roles and stages in the product lifecycle, so we 
 
 #### [Airfoil Benchmark](https://github.com/fengsim/FENGSim-Dev/wiki/Home)
 
-Here we show you how to develop your own digital twin project by introducing the Airfoil, a digital twin example developed at FENGSim.   
+Here we show you how to develop your own digital twin project by introducing the Airfoil benchmark, a digital twin example developed at FENGSim.   
 
 #### Applications
 
