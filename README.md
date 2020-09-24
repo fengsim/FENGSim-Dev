@@ -37,8 +37,8 @@ Here we show you how to develop your own digital twin project by introducing the
 </p>
 
 <p align="center">
-  <img src="https://latex.codecogs.com/gif.latex?{\color{blue}\begin{equation}\Sigma = \dfrac{1}{\displaystyle\sum_{i:d_i\leq r}(r-d_i)}\sum_{i:d_i\leq r}(r-d_i)(P_i-F)(P_i-F)^T
-\end{equation}}" />
+  <img src="https://latex.codecogs.com/gif.latex?\begin{equation}\Sigma = \dfrac{1}{\displaystyle\sum_{i:d_i\leq r}(r-d_i)}\sum_{i:d_i\leq r}(r-d_i)(P_i-F)(P_i-F)^T
+\end{equation}" />
  </p>
 
 ##### Propellant
