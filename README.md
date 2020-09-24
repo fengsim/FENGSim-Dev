@@ -35,7 +35,10 @@ Here we show you how to develop your own digital twin project by introducing the
 <p align="center">
   <img src="images/meas.jpg" width="500" title="arm cluster">
 </p>
-<img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
+
+<p align="center">
+  <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " />
+ </p>
 
 ##### Propellant
 
