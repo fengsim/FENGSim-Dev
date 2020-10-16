@@ -28,8 +28,6 @@ Here we show you how to develop your own digital twin project by introducing the
 
 ##### Additive Manufacturing
 
-##### Assembly Production Line
-
 ##### Measurement
 
 <p align="center">
@@ -40,6 +38,8 @@ Here we show you how to develop your own digital twin project by introducing the
 ##### Propellant
 
 ##### Composite Materials
+
+##### Assembly Production Line
 
 ##### Test and Evaluation
 
