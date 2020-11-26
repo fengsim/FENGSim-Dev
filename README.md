@@ -28,15 +28,15 @@ Here we show you how to develop your own digital twin project by introducing the
 
 ##### Additive Manufacturing
 
+##### Propellant
+
+##### Composite Materials
+
 ##### Measurement
 
 <p align="center">
   <img src="images/meas.jpg" width="500" title="arm cluster">
 </p>
-
-##### Propellant
-
-##### Composite Materials
 
 ##### Assembly Production Line
 
@@ -46,9 +46,11 @@ Here we show you how to develop your own digital twin project by introducing the
 
 ##### Monitoring, Reporting and Verification
 
-##### Biomedical Engineering	
+##### Biomedical Engineering
 
-#### Our ARM cluster
+##### Virtual City
+
+#### ARM Super Computer
 
 <p align="center">
   <img src="images/Mark-1.jpg" width="350" title="arm cluster">
