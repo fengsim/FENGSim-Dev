@@ -4,7 +4,7 @@
 <img src="images/Fengsim_logo_hi.gif" width="100" title="arm cluster">
 </p>
 
-![aaa]{https://raw.githubusercontent.com/fengsim/FENGSim-Dev/master/images/Fengsim_logo_hi.png}
+![aaa](https://raw.githubusercontent.com/fengsim/FENGSim-Dev/master/images/Fengsim_logo_hi.png)
 
 #### About the FENGSim project
 
