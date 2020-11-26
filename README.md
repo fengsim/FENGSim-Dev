@@ -1,10 +1,6 @@
 ## Welcome to the FENGSim project !
 
-%<p align="center">
-%<img src="images/Fengsim_logo_hi.png" width="400" title="arm cluster">
-%</p>
-
-![FENGSim](images/Fengsim_logo_hi.png)
+![FENGSim logo](images/Fengsim_logo_hi.png)
 
 #### About the FENGSim project
 
