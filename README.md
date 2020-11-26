@@ -1,7 +1,7 @@
 ## Welcome to the FENGSim project !
 
 <p align="center">
-<img src="images/Fengsim_logo_hi.gif" width="400" title="arm cluster">
+<img src="images/Fengsim_logo_hi.png" width="400" title="arm cluster">
 </p>
 
 #### About the FENGSim project
