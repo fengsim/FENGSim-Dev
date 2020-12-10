@@ -9,7 +9,7 @@
 ### M++
 ### MPICH2
 ### OpenMPI
-### VTK
+### VTK (xu)
 ### PCL
 ### ...
 ## Hardware
@@ -26,6 +26,7 @@
 ## Propellant
 ## Composite Materials
 ## Measurement
+[User Manual](https://github.com/fengsim/FENGSim-Dev/wiki/Measurement)
 ## Assembly Production Line
 ## Test and Evaluation
 ## Diagnosis, Prognosis, and Health Monitoring
