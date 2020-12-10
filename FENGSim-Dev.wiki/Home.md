@@ -9,7 +9,7 @@
 ### M++
 ### MPICH2
 ### OpenMPI
-### VTK (xu)
+### VTK (xu test)
 ### PCL
 ### ...
 ## Hardware
