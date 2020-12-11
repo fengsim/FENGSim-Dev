@@ -22,7 +22,7 @@ Here we show you how to develop your own digital twin project by introducing the
 
 #### ARM Super Computer
 
-![Measurement example](images/Mark-1.jpg)
+![Measurement example](images/Mark-1.png)
 
 #### Applications
 
