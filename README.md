@@ -1,6 +1,6 @@
 ## Welcome to the FENGSim project !
 
-![FENGSim logo](images/Fengsim_logo_hi2.png)
+![FENGSim logo](images/Fengsim_logo_hi_2.png)
 
 #### About the FENGSim project
 
