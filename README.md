@@ -2,7 +2,7 @@
 
 ### About the FENGSim project
 
-The [FENGSim](www.opendigitaltwin.top) project is an open-source project for Digital Twins. Without a large team and a lot of money, it is normally difficult and near impossible to develop a digital twin system like Siemens TeamCenter, Dassault 3D Experience and Ansys WorkBench etc. But we’ve proven that open-source software is a good solution to this and it brings its products directly to industrial sector. If you want to develop your own digital twin software, join the FENGSim project!
+The FENGSim project is an open-source project for Digital Twins. Without a large team and a lot of money, it is normally difficult and near impossible to develop a digital twin system like Siemens TeamCenter, Dassault 3D Experience and Ansys WorkBench etc. But we’ve proven that open-source software is a good solution to this and it brings its products directly to industrial sector. If you want to develop your own digital twin software, join the FENGSim project!
 
 **About Digital Twin**
 
@@ -20,31 +20,31 @@ Here we show you how to develop your own digital twin project by introducing the
 
 ### Applications
 
-###### Machining
+##### Machining
 
-###### Additive Manufacturing
+##### Additive Manufacturing
 
-###### Measurement
+##### Measurement
 
 ![Measurement](images/meas.jpg)
 
 
-###### Propellant
+##### Propellant
 
-###### Composite Materials
+##### Composite Materials
 
-###### Assembly Production Line
+##### Assembly Production Line
 
-###### Test and Evaluation
+##### Test and Evaluation
 
-###### Diagnosis, Prognosis, and Health Monitoring
+##### Diagnosis, Prognosis, and Health Monitoring
 
-###### Monitoring, Reporting and Verification
+##### Monitoring, Reporting and Verification
 
-###### Biomedical Engineering	
+##### Biomedical Engineering	
 
 ### Hardwares
 
-###### ARM Super Computer
+##### ARM Super Computer
 
 ![Measurement](images/Mark-1.png)
