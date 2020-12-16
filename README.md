@@ -1,6 +1,5 @@
-<p align="center">
-<img src="images/Fengsim_logo_hi.png" width="500" title="arm cluster">
-</p>
+![FENGSim](images/Fengsim_logo_hi_2.png)
+
 
 #### About the FENGSim project
 
@@ -30,9 +29,8 @@ Here we show you how to develop your own digital twin project by introducing the
 
 ###### Measurement
 
-<p align="center">
-  <img src="images/meas.jpg" width="500" title="arm cluster">
-</p>
+![Measurement](images/meas.jpg)
+
 
 ###### Propellant
 
@@ -50,4 +48,4 @@ Here we show you how to develop your own digital twin project by introducing the
 
 #### ARM Super Computer
 
-![Measurement example](images/Mark-1.png)
+![Measurement](images/Mark-1.png)
