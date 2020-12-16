@@ -18,6 +18,10 @@ From the above, there are many roles and stages in the product lifecycle, so we 
 
 Here we show you how to develop your own digital twin project by introducing the Airfoil benchmark, a digital twin example developed at FENGSim.   
 
+##### ARM Super Computer
+
+![Measurement](images/Mark-1.png)
+
 ### Applications
 
 ##### Machining
@@ -43,8 +47,5 @@ Here we show you how to develop your own digital twin project by introducing the
 
 ##### Biomedical Engineering	
 
-### Hardwares
+##### Virtual City
 
-##### ARM Super Computer
-
-![Measurement](images/Mark-1.png)
