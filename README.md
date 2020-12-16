@@ -24,28 +24,28 @@ Here we show you how to develop your own digital twin project by introducing the
 
 ## Applications
 
-##### Machining
+#### Machining
 
-##### Additive Manufacturing
+#### Additive Manufacturing
 
-##### Measurement
+#### Measurement
 
 ![Measurement](images/meas.jpg)
 
 
-##### Propellant
+#### Propellant
 
-##### Composite Materials
+#### Composite Materials
 
-##### Assembly Production Line
+#### Assembly Production Line
 
-##### Test and Evaluation
+#### Test and Evaluation
 
-##### Diagnosis, Prognosis, and Health Monitoring
+#### Diagnosis, Prognosis, and Health Monitoring
 
-##### Monitoring, Reporting and Verification
+#### Monitoring, Reporting and Verification
 
-##### Biomedical Engineering	
+#### Biomedical Engineering	
 
-##### Virtual City
+#### Virtual City
 
