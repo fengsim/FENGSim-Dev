@@ -20,7 +20,7 @@ Here we show you how to develop your own digital twin project by introducing the
 
 ##### ARM Super Computer
 
-![Measurement](images/Mark-1.png)
+![ARM Super Computer](images/Mark-1.png)
 
 ### Applications
 
