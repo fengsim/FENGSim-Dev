@@ -1,12 +1,12 @@
-## Welcome to the FENGSim project !
-
 <p align="center">
 <img src="images/Fengsim_logo_hi.png" width="500" title="arm cluster">
 </p>
 
 #### About the FENGSim project
 
-FENGSim project is an open-source project for Digital Twins. Without a large team and a lot of money, it is normally difficult and near impossible to develop a digital twin system like Siemens TeamCenter, Dassault 3D Experience and Ansys WorkBench etc. But we’ve proven that open-source software is a good solution to this and it brings its products directly to industrial sector. If you want to develop your own digital twin software, join the FENGSim project!
+[FENGSim Project]: www.opendigitaltwin.top
+
+is an open-source project for Digital Twins. Without a large team and a lot of money, it is normally difficult and near impossible to develop a digital twin system like Siemens TeamCenter, Dassault 3D Experience and Ansys WorkBench etc. But we’ve proven that open-source software is a good solution to this and it brings its products directly to industrial sector. If you want to develop your own digital twin software, join the FENGSim project!
 
 **About Digital Twin**
 
@@ -24,29 +24,29 @@ Here we show you how to develop your own digital twin project by introducing the
 
 #### Applications
 
-##### Machining
+###### Machining
 
-##### Additive Manufacturing
+###### Additive Manufacturing
 
-##### Measurement
+###### Measurement
 
 <p align="center">
   <img src="images/meas.jpg" width="500" title="arm cluster">
 </p>
 
-##### Propellant
+###### Propellant
 
-##### Composite Materials
+###### Composite Materials
 
-##### Assembly Production Line
+###### Assembly Production Line
 
-##### Test and Evaluation
+###### Test and Evaluation
 
-##### Diagnosis, Prognosis, and Health Monitoring
+###### Diagnosis, Prognosis, and Health Monitoring
 
-##### Monitoring, Reporting and Verification
+###### Monitoring, Reporting and Verification
 
-##### Biomedical Engineering	
+###### Biomedical Engineering	
 
 #### Our ARM cluster
 
