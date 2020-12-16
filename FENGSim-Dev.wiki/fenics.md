@@ -1,0 +1,4 @@
+##The FEniCS computing platform
+FEniCS is a popular open-source computing platform for solving partial differential equations (PDEs). FEniCS enables users to quickly translate scientific models into efficient finite element code. With the high-level Python and C++ interfaces to FEniCS, it is easy to get started, but FEniCS offers also powerful capabilities for more experienced programmers. FEniCS runs on a multitude of platforms ranging from laptops to high-performance clusters.
+###High-performance computing
+Each component of the FEniCS platform has been fundamentally designed for parallel processing. Executing a FEniCS script in parallel is as simple as calling . This framework allows for rapid prototyping of finite element formulations and solvers on laptops and workstations, and the same code may then be deployed on large high-performance computers.
