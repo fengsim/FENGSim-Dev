@@ -14,13 +14,13 @@ These are the things you should know about why we need Digital Twins:
 
 From the above, there are many roles and stages in the product lifecycle, so we need a unified model  to coordinate all the work and this is the reason for Digital Twin.  
 
-The followings are the core technologies used in Ditital Twins:
+The followings are the core technologies used in Digital Twins:
 
 - CAD, CAE, CAM and CAI;
 - The coupling of system simulation and physical field simulation;
 - Manufacturing simulation;
 - The coupling of CAX and artificial intelligence; 
-- Geometrical and physical sensors;
+- Geometrical and pdhysical sensors;
 - Visualization and auralisation;
 - Edge computing.
 
