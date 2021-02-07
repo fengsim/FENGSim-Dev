@@ -20,8 +20,8 @@ The followings are the core technologies used in Digital Twins:
 - The coupling of system simulation and physical field simulation;
 - Manufacturing simulation;
 - The coupling of CAX and artificial intelligence; 
-- Geometrical and pdhysical sensors;
-- Visualization and auralisation;
+- Geometrical and physical sensors;
+- Immersion interaction;
 - Edge computing.
 
 ## [Airfoil Benchmark](https://github.com/fengsim/FENGSim-Dev/wiki/Home)
