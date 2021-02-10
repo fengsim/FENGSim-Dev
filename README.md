@@ -17,12 +17,12 @@ From the above, there are many roles and stages in the product life cycle, so we
 The followings are the core technologies used in Digital Twins:
 
 - CAD, CAE, CAM and CAI,
-- The Coupling of System Simulation and Physical Field Simulation,
-- Manufacturing Simulation,
-- The Coupling of CAX and Artificial Intelligence,
-- Geometrical and Physical Sensors,
-- Immersion Interaction,
-- Edge computing.
+- the coupling of system simulation and physical field simulation,
+- manufacturing simulation,
+- the coupling of CAX and artificial intelligence,
+- geometrical and physical sensors,
+- immersive interaction,
+- edge computing.
 
 ## [Airfoil Benchmark](https://github.com/fengsim/FENGSim-Dev/wiki/Home)
 
