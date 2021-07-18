@@ -36,6 +36,8 @@ The followings are the core technologies used in Digital Twins and you could fin
 
 Here we show you how to develop your own digital twin project by introducing the Airfoil benchmark, a digital twin example developed at FENGSim.   
 
+![airfoil](images/airfoil.png)
+
 #### ARM Super Computer
 
 ![ARM Super Computer](images/Mark-1.png)
