@@ -20,7 +20,7 @@ The old product optimization is mainly done in the research & development stage 
 
 
 
-The followings are the core technologies used in Digital Twins:
+The followings are the core technologies used in Digital Twins and you could find all of them from open source technologies, :-).
 
 - CAD, CAE, CAM and CAI,
 - the coupling of system simulation and physical field simulation,
