@@ -1,6 +1,6 @@
 ![FENGSim](images/Fengsim_logo_hi_2.png)
 
-## About the FENGSim project
+## About the FENGSim Project
 
 The FENGSim project is an open-source project for Digital Twins. Without a large team and a lot of money, it is normally difficult and near impossible to develop a digital twin system like Siemens TeamCenter, Dassault 3D Experience and Ansys WorkBench etc. But we’ve proven that open-source software is a good solution to this and it brings its products directly to industrial sector. If you want to develop your own digital twin software, join the FENGSim project!
 
@@ -14,13 +14,11 @@ There are many definitions and explanations for the digital twin and they make p
 
 The old product optimization is mainly done in the research & development stage and it is really difficult and very slow to considers the above problems. We need 500 years to Mars !!!
 
-
-
 ![old research way](images/dt1.png)
 
+**The Technologies for Digital  Twin**
 
-
-The followings are the core technologies used in Digital Twins and you could find all of them from open source technologies, :-).
+The followings are the technologies used in Digital Twins and you could find all of them from open source technologies, :-).
 
 - CAD, CAE, CAM and CAI,
 - the coupling of system simulation and physical field simulation,
