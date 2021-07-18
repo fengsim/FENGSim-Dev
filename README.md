@@ -18,7 +18,7 @@ The followings are the core technologies used in Digital Twins:
 
 - CAD, CAE, CAM and CAI,
 - the coupling of system simulation and physical field simulation,
-- manufacturing simulation,
+- Manufacturing Simulation,
 - the coupling of CAX and artificial intelligence,
 - geometrical and physical sensors,
 - immersive interaction,
