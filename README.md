@@ -6,7 +6,7 @@ The FENGSim project is an open-source project for Digital Twins. Without a large
 
 **About Digital Twin**
 
-There are many definitions and explanations for Digital Twin and they make people very confused. We share our understanding and make the idea of the digital twin very simple.
+There are many definitions and explanations for Digital Twin and they make people very confused. We share our understanding and make the idea of Digital Twin very simple.
 
 - Given the cost and time in industrial production, it would be infeasible for manufacturers to complete the comprehensive and **extreme assessment** of their products in one shot, especially for complex systems like an aircraft. Therefore, the product should be optimized throughout the whole life cycle. 
 - The manufacturers mainly concentrate on their designing and manufacturing processes and usually do not do MRO (**maintenance, repair, and operations**) by themselves. The users or the third party will do MRO following the instructions from the manufacturers. Since the manufacturers do not track the use of their products, they will normally just provide conservative instructions. So, MRO can be a big cost for users and it will generally affect the performance of the products.
